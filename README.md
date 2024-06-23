@@ -1,12 +1,12 @@
 # Twitter fake Account Dataset
 
 ## Overview
-This repository contains the code and data used for the research on identifying fake accounts in social media. The primary dataset used in this project is sourced from [Tong Ke Wu's GitHub repository](https://github.com/tongkewu/Identify-Fake-Accounts-in-Twitter). The dataset provides valuable insights into user behavior on Twitter, which we utilized to develop and evaluate our models for detecting fake accounts.
+This repository contains the code and data used for the research on identifying fake accounts in social media. The primary dataset used in this project is sourced from [Tong Ke Wu's GitHub repository](https://github.com/tongkewu/Identify-Fake-Accounts-in-Twitter-). The dataset provides valuable insights into user behavior on Twitter, which we utilized to develop and evaluate our models for detecting fake accounts.
 
 
 ## Dataset
 
-The dataset used in this project is available at [Tong Ke Wu's GitHub repository](https://github.com/tongkewu/Identify-Fake-Accounts-in-Twitter). We express our gratitude to Tong Ke Wu for making this dataset publicly available.
+The dataset used in this project is available at [Tong Ke Wu's GitHub repository](https://github.com/tongkewu/Identify-Fake-Accounts-in-Twitter-). We express our gratitude to Tong Ke Wu for making this dataset publicly available.
 
 ## Methodology
 
